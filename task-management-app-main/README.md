@@ -119,6 +119,4 @@ This is a full-stack task management application built using Angular, Node.js, E
 7. **Edit Task**: Click the edit button to update a task.
 8. **Delete Task**: Click the delete button to remove a task.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
